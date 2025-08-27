@@ -1,7 +1,4 @@
 
-
-<img src="https://img.shields.io/github/stars/otahina/PowerPoint-Generator-Python-Project.svg"> <img src="https://img.shields.io/github/forks/otahina/PowerPoint-Generator-Python-Project.svg">
-
 ## PowerPoint Generator: Your Gateway to Effortless Presentations 🚀
 
 Dive into the ease of presentation creation with PowerPoint Generator, a smart web application crafted to automate 
