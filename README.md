@@ -18,7 +18,7 @@ https://github.com/otahina/PowerPoint-Generator-Python-Project/assets/108225969/
 
 ## Features 
 
-* **🤖 AI-Driven Content Creation**: Utilize the power of GPT-3.5 Turbo to generate slide content based on user's input.
+* **🤖 AI-Driven Content Creation**: Utilize the power of GPT-5 to generate slide content based on user's input.
 * **😎 Intelligent Slide Generation**: The tool intelligently proposes titles and content for each slide.
 * **🎨 Customizable Themes**: Choose color themes for your presentation, giving it a personalized touch.
 * **🙂 User-Friendly Interface**: Clear instructions and an intuitive design make the PowerPoint generation process seamless and straightforward.
